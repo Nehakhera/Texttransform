@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wordconverter/static/css/main.abd64e84.css",
+    "main.js": "/Wordconverter/static/js/main.9c9b6776.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Wordconverter/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Wordconverter/index.html",
+    "main.abd64e84.css.map": "/Wordconverter/static/css/main.abd64e84.css.map",
+    "main.9c9b6776.js.map": "/Wordconverter/static/js/main.9c9b6776.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Wordconverter/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.9c9b6776.js"
+  ]
+}
